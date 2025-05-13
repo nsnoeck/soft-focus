@@ -1,0 +1,6 @@
+#img-concept-1, .img-concept:hover #img-concept-2 {
+    display: block;
+ }
+ #img-concept-2, .img-concept:hover #img-concept-1 {
+    display: none;
+ }
